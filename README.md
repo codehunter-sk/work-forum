@@ -1,5 +1,5 @@
 # work-forum
--The work assigner that allows any leader to easily assign work to their team members and see if they have completed it or not.
+-The work assigner that allows any leader to easily assign work to their team members and see if they have completed it or not.(In a simple GUI)
 To execute the code, save the folder as it is and run file6.py
 Extra modules are required
 
